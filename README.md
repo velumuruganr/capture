@@ -1,0 +1,1 @@
+**Capture** is a chrome extension for screen capture and recording

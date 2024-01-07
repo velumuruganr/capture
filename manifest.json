@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Capture",
+    "background": {
+        "service_worker": "./src/background.js"
+    },
+    "action":{
+        "default_popup": "popup.html"
+    }
+}
